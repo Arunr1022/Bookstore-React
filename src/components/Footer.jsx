@@ -21,7 +21,7 @@ function FootSec() {
 
         <div className="footersec2">
         <img className="whatsappimg" src={Whatsapp} alt=""  />
-        <p className="about1">Whatsapp Number</p>
+        <p className="about1">9674531234</p>
         </div>
 
         <div className="footersec3">
