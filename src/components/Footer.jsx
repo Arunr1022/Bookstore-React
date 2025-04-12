@@ -36,7 +36,7 @@ function FootSec() {
 
         <div className="footersec4">
             <p className="copyright">
-            © 2025 NextChapter Bookstores Pvt. Ltd. All Rights Reserved...
+            © 2025 NextChapter Bookstores Pvt. Ltd. All Rights Reserved
             </p>
         </div>
         </>
